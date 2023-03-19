@@ -10,4 +10,7 @@ So I needed to build a classifier that identify the category of an article accur
 ## Data + Model: 
 The 20 newsgroups dataset(scikit-learn) comprises around 18k newsgroups posts on 20 topics split in two subsets. 
 
-Transformer architecture
+1. Logistic regression accuracy=83%
+2. Transformer architecture DistilBERT HF accuracy=82%
+
+
